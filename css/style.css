@@ -314,4 +314,110 @@ header {
       margin-left: 48px;
       margin-right: 48px; }
 
+.first_webinar {
+  height: 515px;
+  padding-top: 90px; }
+  .first_webinar .laptop {
+    display: block;
+    margin: 0 auto; }
+  .first_webinar h3 {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #252525;
+    margin-top: 35px; }
+  .first_webinar h2 {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 36px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #299CBD;
+    margin-top: 30px; }
+  .first_webinar h4 {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 20px;
+    text-align: center;
+    color: #4A4A4A;
+    margin-top: 25px; }
+
+.footer {
+  height: 170px;
+  padding-top: 100px;
+  background-color: #1A1A1A; }
+  .footer .wrapper {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    text-align: center; }
+    .footer .wrapper .support {
+      font-family: "Roboto";
+      font-style: normal;
+      font-weight: 300;
+      font-size: 15px;
+      line-height: 21px;
+      text-align: center;
+      -webkit-text-decoration-line: underline;
+              text-decoration-line: underline;
+      color: #888888; }
+    .footer .wrapper .vertical_line {
+      margin-left: 10px;
+      margin-right: 10px;
+      font-family: "Roboto";
+      font-style: normal;
+      font-weight: 300;
+      font-size: 15px;
+      line-height: 21px;
+      text-align: center;
+      -webkit-text-decoration-line: underline;
+              text-decoration-line: underline;
+      color: #888888; }
+    .footer .wrapper .confidencial {
+      font-family: "Roboto";
+      font-style: normal;
+      font-weight: 300;
+      font-size: 15px;
+      line-height: 21px;
+      text-align: center;
+      -webkit-text-decoration-line: underline;
+              text-decoration-line: underline;
+      color: #888888; }
+  .footer .phone_us {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    text-align: center;
+    margin-top: 10px; }
+    .footer .phone_us .descr {
+      font-family: "Roboto";
+      font-style: normal;
+      font-weight: 300;
+      font-size: 15px;
+      line-height: 21px;
+      text-align: center;
+      color: #888888; }
+    .footer .phone_us address {
+      font-family: "Roboto";
+      font-style: normal;
+      font-weight: 300;
+      font-size: 15px;
+      line-height: 21px;
+      text-align: center;
+      color: #888888; }
+
 /*# sourceMappingURL=style.css.map */
